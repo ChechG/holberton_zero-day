@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # HOW TO USE EMACS
+=======
+# HOW TO USE EMACS
+>>>>>>> 77682a20d6a266638bf64ead99fea061a013f76e
